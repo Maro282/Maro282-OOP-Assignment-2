@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A1QhLlfbSjM=",
+  "success": true,
+  "projectFilePath": "D:\\Simulation Eg\\oop assignment 2 test\\csharp-srp-violations\\src\\SrpLab\\SrpLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.31\\microsoft.windowsdesktop.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.31\\microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.31\\microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

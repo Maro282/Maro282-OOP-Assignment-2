@@ -1,0 +1,13 @@
+D:\Simulation Eg\oop assignment 2 test\csharp-srp-violations\src\SrpLab\bin\Debug\net8.0\SrpLab.deps.json
+D:\Simulation Eg\oop assignment 2 test\csharp-srp-violations\src\SrpLab\bin\Debug\net8.0\SrpLab.dll
+D:\Simulation Eg\oop assignment 2 test\csharp-srp-violations\src\SrpLab\bin\Debug\net8.0\SrpLab.pdb
+D:\Simulation Eg\oop assignment 2 test\csharp-srp-violations\src\SrpLab\obj\Debug\net8.0\SrpLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simulation Eg\oop assignment 2 test\csharp-srp-violations\src\SrpLab\obj\Debug\net8.0\SrpLab.AssemblyInfoInputs.cache
+D:\Simulation Eg\oop assignment 2 test\csharp-srp-violations\src\SrpLab\obj\Debug\net8.0\SrpLab.AssemblyInfo.cs
+D:\Simulation Eg\oop assignment 2 test\csharp-srp-violations\src\SrpLab\obj\Debug\net8.0\SrpLab.csproj.CoreCompileInputs.cache
+D:\Simulation Eg\oop assignment 2 test\csharp-srp-violations\src\SrpLab\obj\Debug\net8.0\SrpLab.sourcelink.json
+D:\Simulation Eg\oop assignment 2 test\csharp-srp-violations\src\SrpLab\obj\Debug\net8.0\SrpLab.dll
+D:\Simulation Eg\oop assignment 2 test\csharp-srp-violations\src\SrpLab\obj\Debug\net8.0\refint\SrpLab.dll
+D:\Simulation Eg\oop assignment 2 test\csharp-srp-violations\src\SrpLab\obj\Debug\net8.0\SrpLab.pdb
+D:\Simulation Eg\oop assignment 2 test\csharp-srp-violations\src\SrpLab\obj\Debug\net8.0\ref\SrpLab.dll
+D:\Simulation Eg\oop assignment 2 test\csharp-srp-violations\src\SrpLab\obj\Debug\net8.0\SrpLab.csproj.Up2Date
